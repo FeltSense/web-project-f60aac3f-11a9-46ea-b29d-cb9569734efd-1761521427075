@@ -1,4 +1,3 @@
-javascript
 export default function Footer() {
   return (
     <footer className="bg-gradient-to-b from-white to-slate-50 border-t border-slate-200">
